@@ -29,6 +29,7 @@ This challenge documents my daily progress in becoming a full stack developer by
 - Day 4 – JavaScript Basics  
 - Day 5 – To-Do List Web App (DOM Manipulation)  
 - Day 6 – Student Score Manager (with LocalStorage)
+- Day 7 – Random User App(using Fetch API and async/await).
 
 🔗 **Repository:**  
 [Full Stack 21 Days Challenge](https://github.com/NalinaHM/full-stack-21-days)
