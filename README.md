@@ -31,6 +31,10 @@ This challenge documents my daily progress in becoming a full stack developer by
 - Day 6 – Student Score Manager (with LocalStorage)
 - Day 7 – Random User App(using Fetch API and async/await).
 - Day 8 – Build Student Analytics dashboard using reduce and every.
+- Day 9 – Refactor student analytics dashboard using ES6 modules and arrow functions.
+- Day 10 – Build multi-counter app using closures for private state.
+- Day 11 – Add this keyword demo page.
+- Day 12 – Build e-commerce.
 
 🔗 **Repository:**  
 [Full Stack 21 Days Challenge](https://github.com/NalinaHM/full-stack-21-days)
