@@ -35,6 +35,7 @@ This challenge documents my daily progress in becoming a full stack developer by
 - Day 10 – Build multi-counter app using closures for private state.
 - Day 11 – Add this keyword demo page.
 - Day 12 – Build e-commerce.
+- Day 13 – JavaScript Execution Visualizer.
 
 🔗 **Repository:**  
 [Full Stack 21 Days Challenge](https://github.com/NalinaHM/full-stack-21-days)
