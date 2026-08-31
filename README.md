@@ -78,7 +78,7 @@ This challenge documents my daily progress in becoming a full stack developer by
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub & LeetCode Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NalinaHM&show_icons=true&theme=radical&hide_border=true" alt="Nalina's GitHub Stats" width="48%"/>
@@ -89,16 +89,24 @@ This challenge documents my daily progress in becoming a full stack developer by
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NalinaHM&theme=radical&hide_border=true" alt="GitHub Streak" width="97%"/>
 </p>
 
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/NalinaHM" alt="Nalina's LeetCode Stats" />
+</p>
+
 ---
 
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/NalinaHM">
-    <img src="https://img.shields.io/badge/GitHub-NalinaHM-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nalina-h-m-37039837">
+  <a href="https://www.linkedin.com/in/nalina-h-m-37039837" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Nalina_H_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br/><br/>
+  <a href="https://leetcode.com/u/NalinaHM" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-NalinaHM-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/NalinaHM" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-NalinaHM-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
