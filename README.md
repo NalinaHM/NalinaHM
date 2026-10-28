@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nalina</h1>
-<h3 align="center">🎓 Final Year B.E. Student | 🤖 AI & Machine Learning Enthusiast | 💻 Aspiring Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Nalina H M</h1>
+<h3 align="center">🎓 Final Year B.E. (AIML) Student | 🤖 Aspiring AI Engineer (Target 2027) | 💡 DSA & Problem Solving Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nalina-h-m-37039837"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,73 +8,91 @@
 </p>
 
 <p align="center">
-  🚀 <b>Currently completing a 21-Day Full Stack Development Challenge</b>
+  🚀 <b>Mission AI Engineer 2027</b> | 🧠 <b>Active Problem Solver (53+ LeetCode Solved)</b> | 💻 <b>Full Stack & AI/ML Developer</b>
 </p>
 
 ---
 
 ### 🔥 About Me
 
-I am a passionate **Final Year B.E. (Bachelor of Engineering)** student focused on building real-world web applications and strengthening my problem-solving skills. I enjoy combining my interest in **Artificial Intelligence** and **Web Development** to create practical and impactful projects. Currently, I am sharpening my frontend and backend engineering skills while preparing to transition into full stack software development roles.
+I am a passionate **Final Year B.E. student specializing in Artificial Intelligence & Machine Learning (AIML)**. My primary mission is mastering **AI Engineering by 2027**, combining strong foundational problem-solving in Data Structures & Algorithms with practical Machine Learning, Neural Networks, and scalable software systems.
 
-- 🎯 **Current Goals**: Strengthen JavaScript fundamentals, build real-world applications, improve GitHub portfolio quality, and prepare for placement opportunities.
-- 💡 **Motto**: ⭐ *Consistency over perfection* — 🚀 *Building skills one day at a time!*
+- 🔭 **Current Focus**: Machine Learning Foundations, Neural Networks, Graph Algorithms, and Advanced Python.
+- 🚀 **Flagship Initiative**: Documenting my structured, daily journey in [**AI-engineer-2027**](https://github.com/NalinaHM/AI-engineer-2027) (50+ active days documented daily).
+- 🧩 **DSA Practice**: Actively solving problems across Graphs, Binary Search on Answer, Trees, Sliding Window, and Dynamic Programming on [LeetCode](https://leetcode.com/u/NalinaHM).
+- 💡 **Motto**: ⭐ *Consistency over perfection* — *Building world-class engineering skills one day at a time!*
 
 ---
 
-### 🚀 21 Days Full Stack Developer Challenge
+### 🌟 Featured Repositories & Initiatives
 
-This challenge documents my daily progress in becoming a full stack developer by building projects consistently for 21 days.
-
-🔗 **Repository**: [Full Stack 21 Days Challenge](https://github.com/NalinaHM/full-stack-21-days)
-
-<details open>
-<summary><b>✅ Completed Days & Project Modules</b></summary>
-
-<br/>
-
-| Day | Topic / Project | Status |
-| :---: | :--- | :---: |
-| **Day 1** | HTML Fundamentals | ✅ |
-| **Day 2** | CSS Styling & Layout | ✅ |
-| **Day 3** | Static Webpage Project | ✅ |
-| **Day 4** | JavaScript Basics | ✅ |
-| **Day 5** | To-Do List Web App (DOM Manipulation) | ✅ |
-| **Day 6** | Student Score Manager (with LocalStorage) | ✅ |
-| **Day 7** | Random User App (using Fetch API and Async/Await) | ✅ |
-| **Day 8** | Student Analytics Dashboard (using `reduce` and `every`) | ✅ |
-| **Day 9** | Refactored Student Analytics Dashboard (ES6 modules and Arrow Functions) | ✅ |
-| **Day 10** | Multi-Counter App (using Closures for private state) | ✅ |
-| **Day 11** | Interactive `this` Keyword Demo Page | ✅ |
-| **Day 12** | E-Commerce Product Catalog UI | ✅ |
-| **Day 13** | JavaScript Execution Visualizer | ✅ |
-| **Day 14** | Fake E-Commerce Store Demo | ✅ |
-| **Day 15** | Event Loop Demo E-Commerce Loader (Async/Await, Promises, `setTimeout`) | ✅ |
-| **Day 16 & 17** | Full Stack Mini Project – E-Commerce Store | ✅ |
-| **Day 18** | Smart Healthcare Appointment & Patient Monitor System | ✅ |
-| **Day 19** | Secure AI Lab Management System | ✅ |
-| **Day 20 & 21** | Smart Secure Healthcare Backend System | ✅ |
-
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/NalinaHM/AI-engineer-2027">AI-engineer-2027</a></h3>
+      <p><b>Flagship Multi-Year Roadmap</b> tracking hands-on daily engineering progress:</p>
+      <ul>
+        <li>🌳 <b>DSA Mastery</b>: Graphs (BFS/DFS, Dijkstra, Bellman-Ford, Grid Problems), Trees, Binary Search on Answer, Two Pointers, Stacks.</li>
+        <li>🤖 <b>AI/ML Concepts</b>: Neural Networks, Linear Regression, Supervised Learning, Model Evaluation, Scikit-Learn.</li>
+        <li>🐍 <b>Python & OOP</b>: Advanced Object-Oriented Design, NumPy, Pandas, File I/O.</li>
+        <li>🧩 <b>LeetCode Solutions</b>: 53+ optimal Python implementations.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 <a href="https://github.com/NalinaHM/full-stack-21-days">Full Stack 21 Days Challenge</a></h3>
+      <p><b>21-Day Intensive Web Development</b> journey from core fundamentals to full stack architectures:</p>
+      <ul>
+        <li>🌐 <b>Frontend</b>: HTML5, CSS3, DOM manipulation, responsive layouts, local storage.</li>
+        <li>⚡ <b>JavaScript Core</b>: Closures, Event Loop, ES6 modules, Promises & Async/Await.</li>
+        <li>🏥 <b>Capstone Projects</b>: Smart Healthcare Appointment System & Secure AI Lab Management System.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-#### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### **JavaScript Concepts Mastered**
-`Arrays & Objects` • `Higher-Order Functions (map, filter, forEach, reduce)` • `Arrow Functions` • `DOM Manipulation` • `LocalStorage` • `Closures` • `Execution Context` • `Event Loop`
-
-#### **📚 Currently Learning**
-![Async JS](https://img.shields.io/badge/Asynchronous_JS-Promises_%2F_Async_Await-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend_Development-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Databases](https://img.shields.io/badge/Databases-MongoDB_%2F_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>AI & Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/Neural_Networks-Deep_Learning-blue?style=for-the-badge" alt="Neural Networks"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>DSA & Core CS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data_Structures-Graphs_%2F_Trees_%2F_Heaps-green?style=for-the-badge" alt="Data Structures"/>
+      <img src="https://img.shields.io/badge/Algorithms-Dijkstra_%2F_BFS_%2F_DFS_%2F_Binary_Search-darkgreen?style=for-the-badge" alt="Algorithms"/>
+      <img src="https://img.shields.io/badge/OOP-Object_Oriented_Design-orange?style=for-the-badge" alt="OOP"/>
+      <img src="https://img.shields.io/badge/DBMS-Relational_Databases-blueviolet?style=for-the-badge" alt="DBMS"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Tools & Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -101,11 +119,11 @@ This challenge documents my daily progress in becoming a full stack developer by
   <a href="https://www.linkedin.com/in/nalina-h-m-37039837" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Nalina_H_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <br/><br/>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/NalinaHM" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-NalinaHM-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <br/><br/>
+  &nbsp;&nbsp;
   <a href="https://github.com/NalinaHM" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-NalinaHM-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
