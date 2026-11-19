@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nalina H M</h1>
-<h3 align="center">🎓 Final Year B.E. (AIML) Student | 🤖 Aspiring AI Engineer (Target 2027) | 💡 DSA & Problem Solving Enthusiast</h3>
+<h3 align="center">🎓 Final Year B.E. (AIML) Student | 💼 Incoming Intern @ ElectrobTech | 🤖 Aspiring AI Engineer (Target 2027)</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nalina-h-m-37039837"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🚀 <b>Mission AI Engineer 2027</b> | 🧠 <b>Active Problem Solver (53+ LeetCode Solved)</b> | 💻 <b>Full Stack & AI/ML Developer</b>
+  🚀 <b>Mission AI Engineer 2027</b> | 💼 <b>Selected @ ElectrobTech</b> | 🧠 <b>Active Problem Solver (54+ LeetCode Solved)</b>
 </p>
 
 ---
@@ -35,7 +35,7 @@ I am a passionate **Final Year B.E. student specializing in Artificial Intellige
         <li>🌳 <b>DSA Mastery</b>: Graphs (BFS/DFS, Dijkstra, Bellman-Ford, Grid Problems), Trees, Binary Search on Answer, Two Pointers, Stacks.</li>
         <li>🤖 <b>AI/ML Concepts</b>: Neural Networks, Linear Regression, Supervised Learning, Model Evaluation, Scikit-Learn.</li>
         <li>🐍 <b>Python & OOP</b>: Advanced Object-Oriented Design, NumPy, Pandas, File I/O.</li>
-        <li>🧩 <b>LeetCode Solutions</b>: 53+ optimal Python implementations.</li>
+        <li>🧩 <b>LeetCode Solutions</b>: 54+ optimal Python implementations.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
